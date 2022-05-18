@@ -79,6 +79,7 @@ print("%x" % (pow(c2, d, n))).decode("hex")
 5333637572335f4372797037307d
 ```
 이 16진수를 텍스트로 변환하면 플래그가 나온다.
+
 ![Untitled-2](https://user-images.githubusercontent.com/87555811/169009865-cfdac9d3-a38e-444b-a7fe-8625957476f2.png)
 
 ## flag

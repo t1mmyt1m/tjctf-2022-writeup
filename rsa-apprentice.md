@@ -43,7 +43,7 @@ c1 = 257733734393970582988408159581244878149116
 
 fi =(p-1)*(q-1)
 d = modi(e, fi)
-print("%x" % (pow(c2, d, n))).decode("hex")
+print("%x" % (pow(c1, d, n))).decode("hex")
 ```
 
 ``` python

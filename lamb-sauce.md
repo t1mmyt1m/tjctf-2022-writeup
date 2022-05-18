@@ -2,7 +2,7 @@
 
 <br>
 
-## 문제에 제시된 사이트에 들어가보면 플래그가 있을 것이다.
+## 문제에 제시된 사이트에 들어가보면 플래그가 있다.
 사이트에 들어가면
 
 ![Untitled](https://user-images.githubusercontent.com/87555811/168947553-a7ff71f2-cd0e-4f5b-bcbb-700b33f7d433.png)

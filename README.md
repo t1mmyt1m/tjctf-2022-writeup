@@ -1,9 +1,10 @@
 # TJCTF-2022-writeup
 
 ## Team: NWWTHW
-[![test code style](https://img.shields.io/badge/Name-t1mmy%20t1m-a6e3e9)](https://github.com/IzuruSakamaki)
-[![test code style](https://img.shields.io/badge/Rank-63%20in%20768%20teams-00adb5)](https://github.com/IzuruSakamaki)
-[![test code style](https://img.shields.io/badge/CTF%20points-2401.0000-393e46)](https://github.com/IzuruSakamaki)
+[![test code style](https://img.shields.io/badge/Name-t1mmy%20t1m-a6e3e9)](https://ctftime.org/user/114995)
+[![test code style](https://img.shields.io/badge/Rank-63%20in%20768%20teams-00adb5)](https://ctftime.org/team/183518)
+[![test code style](https://img.shields.io/badge/CTF%20points-2401.0000-393e46)](https://ctftime.org/team/183518)
+[![test code style](https://img.shields.io/badge/Date-5/14%208:00%20AM%20~%205/16%208:00%20AM%20-222831)](https://ctftime.org/event/1599)
 
 ## Problem List
 - I. Miscellaneous

@@ -1,4 +1,4 @@
-# tjctf-2022-writeup
+# TJCTF-2022-writeup
 
 # TJCTF 2022 - Team: NWWTHW
 [![test code style](https://img.shields.io/badge/Name-t1mmy%20t1m-a6e3e9)](https://github.com/IzuruSakamaki)
